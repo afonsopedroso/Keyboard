@@ -1,9 +1,11 @@
 import React, { Component } from 'react';
 import '../components/keyboard.css'
+import png from "../components/music.png"
 
 function Keyboard() {
     return ( <div className="keyContainer">
        <div className="whiteKeys"> 
+        <div className="music"><img className="imgs" src={png} alt="beautiful notes"/></div>
         <div className="blackKey1"></div>
         <div className="blackKey2"></div>
         <div className="blackKey3"></div>
