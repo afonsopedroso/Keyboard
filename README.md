@@ -5,6 +5,11 @@
 
 white and black keys
 
+## Main concepts
+Component strucuturing
+Conditional rendering
+functional components
+
 ### npm i 
 
 
